@@ -722,7 +722,8 @@ section h3.section-subheading {
 }
 
 .team-bio {
-    padding: 15px
+    padding: 15px；
+    text-align: left;
 }
 
 @media(min-width:992px) {
